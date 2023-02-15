@@ -8,4 +8,4 @@ In this project, there are several key features such as time calculation based o
 Diadaptasi dari tugas ITASIS SMPB Aya Sophia Islamic School.
 Proyek kalkulator konversi waktu adalah aplikasi sederhana yang dapat membantu pengguna mengkonversi waktu dari satu format ke format lainnya. Aplikasi ini akan memungkinkan pengguna untuk memasukkan waktu dalam berbagai format seperti jam, menit, detik, hari, minggu, bulan, dan kemudian mengkonversikannya ke format yang diinginkan.
 
-Dalam proyek ini, terdapat beberapa fitur utama seperti penghitungan waktu berdasarkan input waktu dari pengguna, konversi antar format waktu, serta tampilan hasil konversi yang jelas dan mudah dimengerti. Aplikasi ini didukung oleh Bahasa Pemrograman Python
+Dalam proyek ini, terdapat beberapa fitur utama seperti penghitungan waktu berdasarkan input waktu dari pengguna, konversi antar format waktu, serta tampilan hasil konversi yang jelas dan mudah dimengerti. Aplikasi ini ditenagai oleh Bahasa Pemrograman Python
