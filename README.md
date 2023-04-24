@@ -2,10 +2,45 @@
 Adapted from the ITASIS assignment of SMPB Aya Sophia Islamic School.
 The time conversion calculator project is a simple application that can help users convert time from one format to another. The app will allow users to input time in various formats such as hours, minutes, seconds, days, weeks, months, and then convert them to the desired format.
 
-In this project, there are several key features such as time calculation based on the user's time input, conversion between time formats, as well as clear and easy-to-understand display of conversion results. This application is powered by the Python Programming Language
+Introduction
+------------
+This is a time conversion calculator that allows users to convert between different units of time including hours, days, weeks, and months.
 
-# kalkulator-konversi-waktu
-Diadaptasi dari tugas ITASIS SMPB Aya Sophia Islamic School.
-Proyek kalkulator konversi waktu adalah aplikasi sederhana yang dapat membantu pengguna mengkonversi waktu dari satu format ke format lainnya. Aplikasi ini akan memungkinkan pengguna untuk memasukkan waktu dalam berbagai format seperti jam, menit, detik, hari, minggu, bulan, dan kemudian mengkonversikannya ke format yang diinginkan.
+Usage
+-----
+When the program is run, the user will be presented with a menu that allows them to select the unit of time they want to convert. After choosing the unit of time, the user will be presented with another menu that allows them to select the conversion they want to perform.
 
-Dalam proyek ini, terdapat beberapa fitur utama seperti penghitungan waktu berdasarkan input waktu dari pengguna, konversi antar format waktu, serta tampilan hasil konversi yang jelas dan mudah dimengerti. Aplikasi ini ditenagai oleh Bahasa Pemrograman Python
+Supported Units
+---------------
+1. Hour
+2. Day
+3. Week
+4. Month
+
+Supported Conversions
+---------------------
+1. Hour to Day
+2. Hour to Week
+3. Hour to Month
+4. Day to Hour
+5. Day to Week
+6. Day to Month
+7. Week to Hour
+8. Week to Day
+9. Week to Month
+10. Month to Hour
+11. Month to Day
+12. Month to Week
+
+Example
+-------
+Suppose the user wants to convert 36 hours to days. They would perform the following steps:
+
+1. Select "Hour" from the main menu.
+2. Select "Hour to Day" from the sub-menu.
+3. Enter "36" when prompted for the number of hours.
+4. The program will output the equivalent number of days, which in this case is "1.5" days.
+
+Credits
+-------
+This program was created by Hardjuno Indracahya.
